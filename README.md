@@ -23,5 +23,5 @@ I’m also interested in **robotics**, and I love exploring the intersection bet
 - **Key Skills**: Responsive Design, Web Development
 
 ## Contact Information
-- GitHub: []
+- GitHub: [https://github.com/Faria-Haque-2003]
 - Email: [fariahaque011@gmail.com]
