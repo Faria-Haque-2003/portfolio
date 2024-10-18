@@ -1,4 +1,4 @@
-# portfolio
+# Faria Haque's Portfolio
 
 ## About Me
 Hi, I’m **Faria Haque**, currently pursuing a **BSc in Computer Science and Engineering**. I have a passion for technology, programming, and web development. I’m skilled in several programming languages and enjoy creating web applications. I’m currently expanding my skills in **JavaScript** and looking forward to developing dynamic web applications. 
