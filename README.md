@@ -35,7 +35,7 @@ I'm currently pursuing my **BSc in Computer Science and Engineering** . My journ
 - **Sololearn**:  [Introduction to C++,Introduction to HTML,Front end for brgginers,codding for Data]  
 - **Coursera**:  [English for Career Development(University of Pennsylvania)]
 - **Alison** : [1.ntroduction to Common medical Conditions<br>2.Social English language Skills]
--**Great Learning**:[1.Smart English Basics For Professionals<br>2.Video Editing Basics<br>3.Quantitative Aptitude Basics]
+- **Great Learning**:[1.Smart English Basics For Professionals<br>2.Video Editing Basics<br>3.Quantitative Aptitude Basics]
 
 ---
 
