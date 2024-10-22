@@ -1,27 +1,88 @@
 # Faria Haque's Portfolio
 
-## About Me
-Hi, I’m **Faria Haque**, currently pursuing a **BSc in Computer Science and Engineering**. I have a passion for technology, programming, and web development. I’m skilled in several programming languages and enjoy creating web applications. I’m currently expanding my skills in **JavaScript** and looking forward to developing dynamic web applications. 
+ I'm **Faria Haque**, an **Undergrade** student with a deep passion for **web development**, **robotics**, and the fascinating intersection of **computer science** and **biomedical engineering**. I thrive on problem-solving and enjoy exploring the endless possibilities of the digital world. I enjoy working on web development projects and am eager to dive into more complex problems in both software and hardware integration.
 
-I’m also interested in **robotics**, and I love exploring the intersection between hardware and software, where I can apply my programming skills to real-world engineering problems.
+---
 
-## Skills
+## 👩‍💻 About Me
+
+I'm currently pursuing my **BSc in Computer Science and Engineering** . My journey into tech is fueled by curiosity and a strong drive for self-improvement. I am captivated by the merging of **technology** and the **medical sector**, and I look forward to contributing to innovative solutions in **biomedical engineering**.
+
+---
+
+## 🚀 Skills
+
 - **Programming Languages**: Python, C, C++
-- **Web Development**: HTML, CSS, currently learning JavaScript
-- **Areas of Interest**: Robotics, Web Development
+- **Web Development**: HTML, CSS, learning JavaScript
+- **Other Technologies**: Basic robotics knowledge
+- **Soft Skills**: Adaptability, problem-solving, cooperation, and friendliness
 
-## Projects
+---
 
-### 1. Personal Portfolio Website
-**Description**: Developed a personal portfolio website using HTML and CSS to showcase my skills and projects. This project helped me practice front-end web development and responsive design.
-- **Languages/Tools Used**: HTML, CSS
-- **Key Skills**: Web Development, Front-End Design
+## 📘 Education
 
-### 2. Blog Website Prototype
-**Description**: Created a simple blog website prototype with a focus on responsive design and clean layout using HTML and CSS. This project helped me improve my understanding of web layouts and structure.
-- **Languages/Tools Used**: HTML, CSS
-- **Key Skills**: Responsive Design, Web Development
+- **Bachelor of Science in Computer Science and Engineering**  
+  Mawlana Bhashani Science and Technology University
 
-## Contact Information
+- **Higher Secondary School Certificate (HSC)**  
+  Rajuk Uttara Model College
+
+---
+
+## 🏅 Certifications
+
+- **Programming Hero**: [Completion of C Programming, Completion of C++ programming, Robotics ninja]  
+- **Sololearn**:  [Introduction to C++,Introduction to HTML,Front end for brgginers,codding for Data]  
+- **Coursera**:  [English for Career Development(University of Pennsylvania)]
+- **Alison** : [1.ntroduction to Common medical Conditions<br>2.Social English language Skills]
+-**Great Learning**:[1.Smart English Basics For Professionals<br>2.Video Editing Basics<br>3.Quantitative Aptitude Basics]
+
+---
+
+## 🏆 Achievements
+
+- Won **two prizes for painting** in competitions.  
+- Ongoing self-improvement with a focus on **exploring new technologies** and **learning continuously**.
+
+---
+
+## 🎮 Hobbies
+
+- **Painting and drawing** (Award-winning artist)
+- **Exploring new tech fields**, particularly **biomedical engineering**
+- Watching **tech and science-related videos**, documentaries, and reading articles
+- Engaging with tech communities and learning platforms
+- Playing online games and exploring new tech platforms
+
+---
+
+## 💡 Interests
+
+- The fusion of **computer science and the medical sector**
+- **Biomedical engineering**
+- Learning and **self-improvement**
+- **Web Development** (Front-end and Back-end)
+-**Robotics** and **AI**
+- Problem-solving and competitive programming
+- Open-source contributions
+- Tech communities and hackathons
+
+---
+
+## 🔭 What I'm Currently Learning
+
+- Deepening my knowledge in **JavaScript** to become a full-stack web developer.
+- Exploring **biomedical engineering** and the potential of tech in the medical field.
+
+---
+## 🎯 Goals
+
+- **Short-term**: Complete advanced JavaScript and build a full-stack web application.
+- **Long-term**: Work on AI-driven robotics systems and contribute to open-source tech projects.
+
+
+## 📫 Contact Information
+
+
 - GitHub: [https://github.com/Faria-Haque-2003]
 - Email: [fariahaque011@gmail.com]
