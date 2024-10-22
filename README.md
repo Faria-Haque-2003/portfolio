@@ -34,7 +34,7 @@ I'm currently pursuing my **BSc in Computer Science and Engineering** . My journ
 - **Programming Hero**: [Completion of C Programming, Completion of C++ programming, Robotics ninja]  
 - **Sololearn**:  [Introduction to C++,Introduction to HTML,Front end for brgginers,codding for Data]  
 - **Coursera**:  [English for Career Development(University of Pennsylvania)]
-- **Alison** : [1.ntroduction to Common medical Conditions<br>2.Social English language Skills]
+- **Alison** : [1.Introduction to Common medical Conditions<br>2.Social English language Skills]
 - **Great Learning**:[1.Smart English Basics For Professionals<br>2.Video Editing Basics<br>3.Quantitative Aptitude Basics]
 
 ---
